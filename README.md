@@ -1,2 +1,3 @@
 # http-error-pages
-Single-page error pages.
+
+Simple maintenance and error pages for use with City applications and web servers.
